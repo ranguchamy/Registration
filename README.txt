@@ -1,6 +1,6 @@
 DOCUMENT REGISTRATION
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+tinyurl.com/QuickRegi | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (tinyurl.com/QuickRegi/license)
 
 
 This is DOCUMENT REGISTRATION, my latest and greatest addition to Powered by Raja Anguchamy and, per its incredibly
